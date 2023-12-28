@@ -1,7 +1,7 @@
-# prom [https://github.com/PromRithy1990/prom/tree/main]
+# Checkout below branch
 
-# rithy [https://github.com/PromRithy1990/prom/tree/rithy]
+- rithy [https://github.com/PromRithy1990/prom/tree/rithy]
 
-# rithy-sak [https://github.com/PromRithy1990/prom/tree/rithy-sak]
+- rithy-sak [https://github.com/PromRithy1990/prom/tree/rithy-sak]
 
-# rithy-sahkun [https://github.com/PromRithy1990/prom/tree/rithy-sahkun]
+- rithy-sahkun [https://github.com/PromRithy1990/prom/tree/rithy-sahkun]
